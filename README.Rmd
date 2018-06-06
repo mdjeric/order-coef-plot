@@ -9,8 +9,8 @@ Function that orders values of coefficients from regression models, so the compl
 knitr::opts_chunk$set(fig.path = "README_figs/README-")
 ```
 
-<img align="left" width=49% src="README_figs/old.png">
-<img align="right" width=49% src="README_figs/new.png">
+<img align="left" width=50% src="README_figs/old.png">
+<img align="left" width=50% src="README_figs/new.png">
 
 It still requires a lot of fixing with label names, as can be seen, but I am working on making it into another function.  
 
