@@ -3,7 +3,7 @@ Ordering regression coef plots
 
 Function that orders values of coefficients from regression models, so the complex multiple models can be plotted at the same time and compared. My theme of choice is [hrbrmster](https://github.com/hrbrmstr/hrbrthemes). Although I do not know how to include label for reference category below variable name (ideally in smaller font size, or italic) but that it remains left-aligned.
 
-<img align="left" width=50% src="README_figs/old.png"> <img align="right" width=50% src="README_figs/new.png">
+<img align="left" width=49% src="README_figs/old.png"> <img align="right" width=49% src="README_figs/new.png">
 
 It still requires a lot of fixing with label names, as can be seen, but I am working on making it into another function.
 
