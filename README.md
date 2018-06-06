@@ -3,8 +3,9 @@ Ordering regression coef plots
 
 Function that orders values of coefficients from regression models, so the complex multiple models can be plotted at the same time and compared. My theme of choice is [hrbrmster](https://github.com/hrbrmstr/hrbrthemes). Although I do not know how to include label for reference category below variable name (ideally in smaller font size, or italic) but that it remains left-aligned.
 
-<img width=50% src="README_figs/old.png"> <img width=50% src="README_figs/new.png">
-
+<p float="left">
+<img src="README_figs/old.png" width=49% /> <img src="README_figs/new.png" width=49% />
+</p>
 It still requires a lot of fixing with label names, as can be seen, but I am working on making it into another function.
 
 Function is located in 10-plot-sorting-function.R, and there are two samples of how to use it.
